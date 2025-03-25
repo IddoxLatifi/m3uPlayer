@@ -1,0 +1,4 @@
+customtkinter
+python-vlc
+requests
+python-dotenv
