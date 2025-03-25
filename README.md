@@ -1,6 +1,11 @@
 <h1 align="center">m3uPlayer</h1>
 
 ###
+<h2 align="left">Preview</h2>
+
+![Unbenannt](https://github.com/user-attachments/assets/84fca44a-2f0e-4f56-9460-940df0ae2d71)
+
+###
 
 <h2 align="left">Description</h2>
 
@@ -8,6 +13,28 @@
  This tool is a full-featured M3U and M3U8 player + playlist checker. It checks the entered M3U/M3U8 list for availability. All unavailable channels are immediately deleted and a valid playlist is created, loading only working channels. This prevents you from unnecessarily opening channels that aren't actually available.
 
 </p>
+
+###
+
+<h2 align="left">Functions</h2>
+
+<ol>
+  <li>
+    <strong>Create a valid Playlist</strong>
+  </li>
+  <li>
+    <strong>EPG function</strong>
+  </li>
+  <li>
+    <strong>Search function</strong>
+  </li>
+ <li>
+    <strong>Pause the Stream</strong>
+  </li>
+ <li>
+    <strong>Configure the Volume</strong>
+  </li>
+</ol>
 
 ###
 
